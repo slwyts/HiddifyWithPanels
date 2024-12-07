@@ -1,6 +1,6 @@
 # What is HiddifyWithPanels
 
-For those who know, they know. For those who don’t, take your time to learn.
+星空云
 
 ## Project Progress
 - As of October 16, 2024, all features have been developed and no critical bugs remain. This marks the completion of version 1.0.
